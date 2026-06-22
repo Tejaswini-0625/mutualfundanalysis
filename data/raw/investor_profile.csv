@@ -1,0 +1,201 @@
+investor_id,age,city,risk_appetite,investment_goal,kyc_status,pan
+INV0001,44,Delhi,Moderate,Tax Saving,Verified,ABCDE5618F
+INV0002,31,Bangalore,Moderate,Child Education,Verified,ABCDE5071F
+INV0003,29,Pune,Conservative,Tax Saving,Verified,ABCDE6682F
+INV0004,57,Delhi,Aggressive,Retirement,Verified,ABCDE5568F
+INV0005,55,Chennai,Moderate,Child Education,Verified,ABCDE6109F
+INV0006,50,Hyderabad,Moderate,Retirement,Verified,
+INV0007,41,Pune,Moderate,Child Education,Verified,ABCDE8423F
+INV0008,33,Delhi,Conservative,Child Education,Verified,ABCDE5999F
+INV0009,35,Bangalore,Aggressive,Tax Saving,Verified,ABCDE4621F
+INV0010,36,Pune,Conservative,Tax Saving,Verified,ABCDE5370F
+INV0011,26,Bangalore,Aggressive,Retirement,Verified,ABCDE6229F
+INV0012,58,Delhi,Aggressive,Tax Saving,Verified,ABCDE7998F
+INV0013,52,Chennai,Conservative,Tax Saving,Verified,ABCDE5864F
+INV0014,34,Bangalore,Conservative,Tax Saving,Verified,ABCDE7842F
+INV0015,24,Bangalore,Conservative,Retirement,Verified,ABCDE6429F
+INV0016,45,Mumbai,Conservative,Wealth Creation,Pending,ABCDE5027F
+INV0017,41,Mumbai,Moderate,Tax Saving,Verified,ABCDE3398F
+INV0018,49,Bangalore,Conservative,Tax Saving,Pending,ABCDE3036F
+INV0019,52,Chennai,Aggressive,Wealth Creation,Verified,ABCDE6236F
+INV0020,46,Bangalore,Conservative,Child Education,Verified,ABCDE5961F
+INV0021,54,Bangalore,Moderate,Wealth Creation,Verified,ABCDE6444F
+INV0022,55,Bangalore,Moderate,Retirement,Pending,ABCDE3227F
+INV0023,55,Mumbai,Aggressive,Wealth Creation,Verified,ABCDE8374F
+INV0024,56,Delhi,Aggressive,Retirement,Verified,ABCDE9418F
+INV0025,31,Hyderabad,Conservative,Wealth Creation,Verified,ABCDE1760F
+INV0026,27,Mumbai,Moderate,Wealth Creation,Verified,ABCDE2569F
+INV0027,40,Pune,Moderate,Tax Saving,Verified,ABCDE6006F
+INV0028,59,Mumbai,Conservative,Wealth Creation,Verified,ABCDE7707F
+INV0029,22,Pune,Conservative,Retirement,Verified,ABCDE9303F
+INV0030,59,Delhi,Moderate,Wealth Creation,Verified,ABCDE2634F
+INV0031,52,Bangalore,Conservative,Child Education,Verified,ABCDE4957F
+INV0032,26,Mumbai,Aggressive,Wealth Creation,Verified,ABCDE3808F
+INV0033,33,Bangalore,Conservative,Tax Saving,Verified,ABCDE3061F
+INV0034,40,Pune,Moderate,Child Education,Verified,ABCDE1077F
+INV0035,44,Chennai,Moderate,Tax Saving,Verified,ABCDE2563F
+INV0036,33,Delhi,Aggressive,Retirement,Verified,ABCDE4062F
+INV0037,28,Delhi,Conservative,Wealth Creation,Verified,ABCDE2044F
+INV0038,27,Bangalore,Moderate,Child Education,Verified,ABCDE5969F
+INV0039,32,Pune,Aggressive,Child Education,Verified,ABCDE4608F
+INV0040,30,Pune,Aggressive,Retirement,Verified,ABCDE1804F
+INV0041,38,Chennai,Conservative,Retirement,Verified,ABCDE4440F
+INV0042,34,Chennai,Conservative,Child Education,Verified,ABCDE7230F
+INV0043,31,Hyderabad,Conservative,Child Education,Verified,ABCDE7534F
+INV0044,54,Delhi,Moderate,Tax Saving,Verified,ABCDE9312F
+INV0045,38,Chennai,Moderate,Child Education,Verified,ABCDE9185F
+INV0046,23,Hyderabad,Conservative,Retirement,Verified,ABCDE3249F
+INV0047,39,Pune,Aggressive,Tax Saving,Verified,ABCDE9257F
+INV0048,28,Delhi,Aggressive,Wealth Creation,Pending,ABCDE4255F
+INV0049,52,Delhi,Moderate,Child Education,Verified,ABCDE8754F
+INV0050,50,Delhi,Aggressive,Retirement,Verified,ABCDE1014F
+INV0051,35,Bangalore,Conservative,Wealth Creation,Verified,ABCDE9272F
+INV0052,37,Chennai,Aggressive,Child Education,Verified,ABCDE2824F
+INV0053,33,Mumbai,Moderate,Tax Saving,Verified,ABCDE7710F
+INV0054,24,Hyderabad,Aggressive,Retirement,Verified,ABCDE9868F
+INV0055,42,Chennai,Conservative,Retirement,Verified,ABCDE7260F
+INV0056,25,Delhi,Conservative,Wealth Creation,Verified,ABCDE2123F
+INV0057,26,Hyderabad,Moderate,Retirement,Verified,ABCDE9121F
+INV0058,40,Bangalore,Aggressive,Wealth Creation,Verified,ABCDE2271F
+INV0059,58,Pune,Conservative,Child Education,Verified,ABCDE9608F
+INV0060,59,Chennai,Moderate,Child Education,Pending,ABCDE1605F
+INV0061,51,Chennai,Conservative,Child Education,Verified,ABCDE6256F
+INV0062,35,Chennai,Aggressive,Tax Saving,Pending,ABCDE6773F
+INV0063,40,Bangalore,Aggressive,Child Education,Verified,ABCDE7775F
+INV0064,24,Bangalore,Moderate,Retirement,Verified,ABCDE4727F
+INV0065,36,Hyderabad,Aggressive,Wealth Creation,Verified,ABCDE7812F
+INV0066,27,Hyderabad,Moderate,Wealth Creation,Verified,ABCDE3714F
+INV0067,28,Bangalore,Aggressive,Wealth Creation,Verified,ABCDE8684F
+INV0068,23,Chennai,Moderate,Wealth Creation,Verified,ABCDE7476F
+INV0069,26,Hyderabad,Aggressive,Wealth Creation,Verified,ABCDE3688F
+INV0070,26,Bangalore,Aggressive,Tax Saving,Verified,ABCDE2688F
+INV0071,27,Bangalore,Conservative,Child Education,Verified,ABCDE1065F
+INV0072,57,Bangalore,Moderate,Wealth Creation,Pending,ABCDE3815F
+INV0073,24,Delhi,Moderate,Child Education,Verified,ABCDE7386F
+INV0074,36,Pune,Conservative,Wealth Creation,Verified,ABCDE9554F
+INV0075,39,Bangalore,Conservative,Child Education,Verified,ABCDE9611F
+INV0076,39,Hyderabad,Moderate,Retirement,Verified,ABCDE7438F
+INV0077,33,Hyderabad,Moderate,Retirement,Verified,ABCDE5002F
+INV0078,22,Bangalore,Aggressive,Wealth Creation,Verified,ABCDE5131F
+INV0079,44,Delhi,Moderate,Child Education,Verified,ABCDE9203F
+INV0080,40,Pune,Aggressive,Tax Saving,Verified,ABCDE4858F
+INV0081,30,Bangalore,Aggressive,Tax Saving,Verified,ABCDE8884F
+INV0082,23,Chennai,Conservative,Tax Saving,Verified,
+INV0083,22,Mumbai,Moderate,Child Education,Verified,ABCDE4026F
+INV0084,50,Chennai,Conservative,Tax Saving,Pending,ABCDE1218F
+INV0085,26,Mumbai,Aggressive,Wealth Creation,Verified,ABCDE9058F
+INV0086,38,Pune,Moderate,Wealth Creation,Verified,ABCDE5037F
+INV0087,56,Chennai,Aggressive,Tax Saving,Verified,ABCDE7548F
+INV0088,23,Bangalore,Aggressive,Retirement,Verified,ABCDE4256F
+INV0089,32,Hyderabad,Aggressive,Retirement,Verified,ABCDE8326F
+INV0090,43,Pune,Conservative,Wealth Creation,Verified,ABCDE4620F
+INV0091,29,Hyderabad,Moderate,Child Education,Verified,ABCDE6094F
+INV0092,29,Hyderabad,Aggressive,Retirement,Verified,ABCDE4023F
+INV0093,47,Hyderabad,Conservative,Tax Saving,Verified,ABCDE9808F
+INV0094,47,Chennai,Moderate,Tax Saving,Verified,ABCDE2357F
+INV0095,57,Chennai,Aggressive,Wealth Creation,Verified,ABCDE8291F
+INV0096,45,Mumbai,Conservative,Tax Saving,Verified,ABCDE8130F
+INV0097,54,Hyderabad,Conservative,Wealth Creation,Verified,ABCDE9557F
+INV0098,33,Pune,Moderate,Wealth Creation,Verified,ABCDE9460F
+INV0099,53,Bangalore,Moderate,Retirement,Verified,ABCDE7085F
+INV0100,37,Hyderabad,Conservative,Wealth Creation,Verified,ABCDE8551F
+INV0101,35,Bangalore,Aggressive,Retirement,Verified,ABCDE1650F
+INV0102,27,Delhi,Conservative,Child Education,Pending,ABCDE8644F
+INV0103,44,Delhi,Moderate,Retirement,Verified,ABCDE2874F
+INV0104,53,Pune,Moderate,Tax Saving,Verified,ABCDE4240F
+INV0105,43,Pune,Moderate,Retirement,Verified,
+INV0106,23,Chennai,Moderate,Child Education,Verified,ABCDE4213F
+INV0107,22,Hyderabad,Moderate,Wealth Creation,Verified,ABCDE8328F
+INV0108,36,Delhi,Conservative,Wealth Creation,Verified,ABCDE1872F
+INV0109,32,Chennai,Aggressive,Retirement,Verified,ABCDE7731F
+INV0110,48,Bangalore,Conservative,Tax Saving,Verified,ABCDE7553F
+INV0111,52,Bangalore,Conservative,Retirement,Pending,ABCDE1583F
+INV0112,42,Bangalore,Moderate,Child Education,Verified,ABCDE5535F
+INV0113,58,Hyderabad,Conservative,Tax Saving,Verified,ABCDE6834F
+INV0114,23,Pune,Moderate,Child Education,Verified,ABCDE1386F
+INV0115,49,Delhi,Aggressive,Wealth Creation,Verified,ABCDE4868F
+INV0116,34,Bangalore,Conservative,Wealth Creation,Verified,ABCDE5964F
+INV0117,28,Pune,Aggressive,Child Education,Verified,ABCDE9717F
+INV0118,50,Hyderabad,Aggressive,Wealth Creation,Verified,ABCDE7667F
+INV0119,55,Chennai,Moderate,Wealth Creation,Verified,ABCDE3489F
+INV0120,22,Bangalore,Conservative,Retirement,Verified,ABCDE3293F
+INV0121,56,Delhi,Moderate,Retirement,Verified,ABCDE4609F
+INV0122,57,Mumbai,Moderate,Wealth Creation,Pending,ABCDE4684F
+INV0123,29,Bangalore,Moderate,Tax Saving,Pending,ABCDE9700F
+INV0124,36,Bangalore,Aggressive,Tax Saving,Pending,ABCDE6289F
+INV0125,41,Mumbai,Aggressive,Wealth Creation,Pending,ABCDE7805F
+INV0126,26,Chennai,Conservative,Child Education,Verified,ABCDE5016F
+INV0127,29,Chennai,Conservative,Retirement,Verified,ABCDE3120F
+INV0128,31,Hyderabad,Moderate,Wealth Creation,Verified,ABCDE5408F
+INV0129,25,Hyderabad,Conservative,Child Education,Verified,ABCDE3244F
+INV0130,29,Mumbai,Conservative,Wealth Creation,Verified,ABCDE9051F
+INV0131,35,Delhi,Moderate,Child Education,Verified,ABCDE9608F
+INV0132,40,Delhi,Conservative,Retirement,Verified,ABCDE4978F
+INV0133,32,Pune,Conservative,Child Education,Verified,ABCDE7377F
+INV0134,59,Pune,Aggressive,Child Education,Verified,ABCDE9428F
+INV0135,54,Hyderabad,Aggressive,Wealth Creation,Verified,ABCDE1568F
+INV0136,52,Delhi,Aggressive,Wealth Creation,Verified,ABCDE1717F
+INV0137,31,Delhi,Aggressive,Child Education,Verified,ABCDE3718F
+INV0138,29,Bangalore,Moderate,Wealth Creation,Verified,ABCDE5230F
+INV0139,41,Chennai,Conservative,Wealth Creation,Verified,ABCDE9012F
+INV0140,42,Hyderabad,Conservative,Child Education,Verified,
+INV0141,51,Hyderabad,Aggressive,Child Education,Verified,ABCDE3993F
+INV0142,54,Bangalore,Aggressive,Wealth Creation,Verified,ABCDE7639F
+INV0143,59,Chennai,Aggressive,Child Education,Verified,ABCDE3018F
+INV0144,46,Mumbai,Aggressive,Child Education,Verified,ABCDE6202F
+INV0145,44,Bangalore,Aggressive,Retirement,Verified,ABCDE6222F
+INV0146,28,Delhi,Aggressive,Child Education,Verified,ABCDE3582F
+INV0147,59,Delhi,Aggressive,Retirement,Verified,ABCDE4266F
+INV0148,23,Pune,Moderate,Child Education,Verified,ABCDE8819F
+INV0149,38,Pune,Moderate,Child Education,Verified,ABCDE1891F
+INV0150,53,Hyderabad,Aggressive,Retirement,Verified,ABCDE9894F
+INV0151,51,Bangalore,Moderate,Wealth Creation,Verified,ABCDE2591F
+INV0152,25,Chennai,Conservative,Tax Saving,Verified,ABCDE5117F
+INV0153,28,Delhi,Conservative,Retirement,Verified,ABCDE3430F
+INV0154,59,Hyderabad,Conservative,Retirement,Verified,ABCDE7709F
+INV0155,52,Chennai,Conservative,Tax Saving,Verified,ABCDE3084F
+INV0156,59,Bangalore,Conservative,Retirement,Verified,ABCDE2535F
+INV0157,39,Delhi,Moderate,Retirement,Pending,ABCDE2654F
+INV0158,23,Bangalore,Conservative,Wealth Creation,Verified,
+INV0159,28,Hyderabad,Moderate,Wealth Creation,Verified,ABCDE9462F
+INV0160,40,Hyderabad,Aggressive,Child Education,Verified,ABCDE9796F
+INV0161,26,Delhi,Conservative,Wealth Creation,Verified,ABCDE9828F
+INV0162,48,Chennai,Aggressive,Retirement,Verified,ABCDE5365F
+INV0163,41,Chennai,Conservative,Child Education,Verified,ABCDE4521F
+INV0164,41,Mumbai,Conservative,Wealth Creation,Verified,ABCDE9599F
+INV0165,36,Chennai,Moderate,Child Education,Verified,ABCDE8092F
+INV0166,51,Mumbai,Moderate,Child Education,Verified,ABCDE6950F
+INV0167,49,Mumbai,Moderate,Wealth Creation,Verified,ABCDE4574F
+INV0168,49,Chennai,Aggressive,Child Education,Verified,ABCDE1629F
+INV0169,52,Mumbai,Aggressive,Wealth Creation,Verified,ABCDE6555F
+INV0170,37,Pune,Moderate,Wealth Creation,Verified,ABCDE6498F
+INV0171,53,Chennai,Conservative,Wealth Creation,Verified,ABCDE1676F
+INV0172,52,Bangalore,Aggressive,Child Education,Verified,ABCDE6420F
+INV0173,53,Bangalore,Moderate,Retirement,Verified,ABCDE7786F
+INV0174,48,Chennai,Aggressive,Retirement,Pending,ABCDE7289F
+INV0175,47,Chennai,Moderate,Retirement,Verified,ABCDE4015F
+INV0176,44,Delhi,Conservative,Child Education,Verified,ABCDE6969F
+INV0177,40,Bangalore,Moderate,Wealth Creation,Verified,ABCDE7087F
+INV0178,30,Hyderabad,Aggressive,Child Education,Verified,ABCDE4779F
+INV0179,43,Bangalore,Conservative,Wealth Creation,Verified,ABCDE4475F
+INV0180,35,Delhi,Moderate,Wealth Creation,Verified,ABCDE8394F
+INV0181,27,Bangalore,Conservative,Tax Saving,Verified,ABCDE8353F
+INV0182,39,Hyderabad,Aggressive,Tax Saving,Verified,ABCDE9656F
+INV0183,39,Pune,Moderate,Tax Saving,Verified,ABCDE9547F
+INV0184,46,Delhi,Aggressive,Wealth Creation,Verified,ABCDE4210F
+INV0185,24,Bangalore,Moderate,Tax Saving,Verified,ABCDE8383F
+INV0186,35,Chennai,Aggressive,Tax Saving,Verified,ABCDE2042F
+INV0187,26,Chennai,Conservative,Retirement,Verified,ABCDE4088F
+INV0188,29,Pune,Moderate,Tax Saving,Pending,ABCDE1527F
+INV0189,37,Delhi,Aggressive,Child Education,Verified,ABCDE8661F
+INV0190,57,Chennai,Moderate,Tax Saving,Verified,ABCDE8207F
+INV0191,39,Chennai,Moderate,Child Education,Pending,ABCDE8913F
+INV0192,33,Bangalore,Moderate,Tax Saving,Verified,ABCDE3421F
+INV0193,37,Delhi,Aggressive,Retirement,Verified,ABCDE2804F
+INV0194,29,Pune,Aggressive,Retirement,Verified,ABCDE6075F
+INV0195,25,Chennai,Conservative,Wealth Creation,Verified,ABCDE9978F
+INV0196,29,Delhi,Aggressive,Wealth Creation,Verified,ABCDE4949F
+INV0197,57,Bangalore,Moderate,Tax Saving,Verified,ABCDE7241F
+INV0198,25,Bangalore,Aggressive,Wealth Creation,Verified,ABCDE1478F
+INV0199,30,Delhi,Conservative,Retirement,Verified,ABCDE7413F
+INV0200,59,Mumbai,Moderate,Wealth Creation,Verified,ABCDE7900F
